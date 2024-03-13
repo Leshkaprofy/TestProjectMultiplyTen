@@ -1,0 +1,17 @@
+.vs
+.idea
+.DS_Store
+Library/
+Logs/
+obj/
+Temp/
+*.csproj
+*.csproj.meta
+*.sln
+*.sln.DotSettings
+*.sln.meta
+*.vsconfig
+UserSettings/
+Builds/
+*.dwlt
+*.DotSettings.user
